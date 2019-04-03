@@ -5,5 +5,6 @@ public class fuckyou {
 
 	      System.out.println("hohoho");
 
-		System.out.println("wha!?!?!?");}}
+		System.out.println("wha!?!?!?");
+	System.out.println("happy~");}}
 
